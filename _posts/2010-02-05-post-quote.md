@@ -7,7 +7,7 @@ tags:
   - quote
 ---
 
-##The Greengrocer
+#### The Greengrocer
 
 The manager of a fruit-and-vegetable shop places in his window, among the onions and carrots, the slogan: "Workers of the world, unite!" Why does he do it? What is he trying to communicate to the world? Is he genuinely enthusiastic about the idea of unity among the workers of the world? Is his enthusiasm so great that he feels an irrepressible impulse to acquaint the public with his ideals? Has he really given more than a moments thought to how such a unification might occur and what it would mean?
 
