@@ -5,6 +5,7 @@ categories:
 tags:
   - Post Formats
   - quote
+  - politics
 ---
 
 ## The Greengrocer
