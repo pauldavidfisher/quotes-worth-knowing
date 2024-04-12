@@ -1,11 +1,19 @@
+---
+title: "The Watch and the Watchmaker"
+categories:
+  - Blog
+  - Apologetics
+tags:
+  - quote
+  - apologetics
+---
+### William Paley
 
-###William Paley
+## The Watch and the Watchmaker 
 
-##The Watch and the Watchmaker 
+#### [From Natural Theology, or Evidences of the Existence and Attributes of the Deity Collected from the Appearances of Nature (1802), pp. 1-6.] 
 
-####[From Natural Theology, or Evidences of the Existence and Attributes of the Deity Collected from the Appearances of Nature (1802), pp. 1-6.] 
-
-###Statement of the Argument
+### Statement of the Argument
 
 In crossing a heath, suppose I pitched my foot against a stone, and were asked how the stone came to be there, I might possibly answer, that, for anything I knew to the contrary, it had lain there for ever; nor would it, perhaps, be very easy to shew the absurdity of this answer. But suppose I found a watch upon the ground, and it should be inquired how the watch happened to be in that place, I should hardly think of the answer which I had before given that, for anything I knew, the watch might have always been there. Yet why should not this answer serve for the watch as well as for the stone? Why is it not as admissible in the second case as in the first? For this reason, and for no other; viz., that, when we come to inspect the watch, we perceive (what we could not discover in the stone) that its several parts are framed and put together for a purpose, e.g. that they are so formed and adjusted as to produce motion, and that motion so regulated as to point out the hour of the day; that, if the different parts had been differently shaped from size from what they what they are, if a different size from what they are, or placed after any other manner, or in any other order than that in which they are placed, either no motion at all would have been carried on in the machine, or none which would have answered the use that is now served by it. To reckon up a few of the plainest of these parts, and of their offices, all tending to one result: We see a cylindrical box containing a coiled elastic spring, which, by its endeavor to relax itself, turns round the box. We next observe a flexible chain (artificially wrought for the sake of flexure) communicating the action of the spring from the box to the fusee. We then find a series of wheels, the teeth of which catch in, and apply to, each other, conducting the motion from the fusee to the balance, and from the balance to the pointer, and, at the same time, by the size and shape of those wheels, so regulating that motion as to terminate in causing an index, by an equable and measured progression, to pass over a given space in a given time. We take notice that the wheels are made of brass, in order to keep them from rust; the springs of steel, no other metal being so elastic; that over the face of the watch there is placed a glass, a material employed in no other part of the work, but in the room of which, if there had been any other than a transparent substance, the hour could not be seen without opening the case. This mechanism being observed, (it requires indeed an examination of the instrument, and perhaps some previous knowledge of the subject, to perceive and understand it; but being once, as we have said, observed and understood,) the inference, we think, is inevitable, that the watch must have had a maker that there must have existed, at some time, and at some place or other, an artificer or artificers who formed it for the purpose which we find it actually to answer; who comprehended its construction, and designed its use.
 
