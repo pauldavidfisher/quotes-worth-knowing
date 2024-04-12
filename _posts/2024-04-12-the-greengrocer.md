@@ -1,12 +1,14 @@
 ---
-title: "The Greengrocer"
+title: "The Watch and the Watchmaker"
 categories:
   - Blog
+  - Politics
 tags:
-  - Post Formats
   - quote
   - politics
 ---
+
+### Valclav Havel
 
 ## The Greengrocer
 
