@@ -37,4 +37,5 @@ VIII. Neither, lastly, would our observer be driven out of his conclusion, or fr
 
 Every indication of contrivance, every manifestation of design, which existed in the watch, exists in the works of nature; with the difference, on the side of nature, of being greater and more, and that in a degree which exceeds all computation. I mean that the contrivances of nature surpass the contrivances of art, in the complexity, subtilty, and curiosity of the mechanism; and still more, if possible, do they go beyond them in number and variety; yet in a multitude of cases, are not less evidently mechanical, not less evidently contrivances, not less evidently accommodated to their end, or suited to their office, than are the most perfect productions of human ingenuity ....
 
-* * *
+![William Paley!](https://rdl.ink/render/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F39%2FWilliamPaley.jpg?mode=crop&width=128&height=96&dpr=2
+ "William Paley")
