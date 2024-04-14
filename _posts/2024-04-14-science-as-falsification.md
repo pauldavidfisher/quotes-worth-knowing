@@ -10,11 +10,11 @@ tags:
 ---
 
 
-##Science as Falsification
+## Science as Falsification
 
 *The following excerpt was originally published in* Conjectures and Refutations *(1963)*.
 
-###by Karl R. Popper 
+### by Karl R. Popper 
 
 When I received the list of participants in this course and realized that I had been asked to speak to philosophical colleagues I thought, after some hesitation and consolation, that you would probably prefer me to speakabout those problems which interests me most, and about those developments with which I am most intimately acquainted. I therefore decided to do what I have never done before: to give you a report on my own work in the philosophy of science, since the autumn 1919 when I first begin to grapple with the problem, *"When should a theory be ranked as scientific?"* or *"Is there a criterion for the scientific character or status of a theory?"*
 
