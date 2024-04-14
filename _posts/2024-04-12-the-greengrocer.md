@@ -24,7 +24,7 @@ Ideology is a specious way of relating to the world. It offers human beings the 
 
 The smaller a dictatorship and the less stratified by modernization the society under it, the more directly the will of the dictator can be exercised- In other words, the dictator can employ more or less naked discipline, avoiding the complex processes of relating to the world and of self-justification which ideology involves. But the more complex the mechanisms of power become, the larger and more stratified the society they embrace, and the longer they have operated historically, the more individuals must be connected to them from outside, and the greater the importance attached to the ideological excuse. It acts as a kind of bridge between the regime and the people, across which the regime approaches the people and the people approach the regime. This explains why ideology plays such an important role in the post-totalitarian system: that complex machinery of units, hierarchies, transmission belts, and indirect instruments of manipulation which ensure in countless ways the integrity of the regime, leaving nothing to chance, would be quite simply unthinkable without ideology acting as its all-embracing excuse and as the excuse for each of its parts.
 
-![Valclav Havel!](https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FJiri_Jiroutek_Havel_Vaclav%252C_Praha_2006.jpg%2F340px-Jiri_Jiroutek_Havel_Vaclav%252C_Praha_2006.jpg?mode=crop&width=128&height=96&dpr=2
+![Valclav Havel!](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vaclav_Havel.jpg/440px-Vaclav_Havel.jpg
  "Valclav Havel")
   
 > <cite><a href="https://jmp.sh/62QLumzY">Václav Havel / The Power of the Powerless</a></cite>
