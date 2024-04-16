@@ -39,3 +39,5 @@ Every indication of contrivance, every manifestation of design, which existed in
 
 ![William Paley!](https://rdl.ink/render/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F39%2FWilliamPaley.jpg?mode=crop&width=128&height=96&dpr=2
  "William Paley")
+
+> <cite><a href="[https://jmp.sh/d3VHgT7A]">William Paley / Natural Theology</a></cite>
