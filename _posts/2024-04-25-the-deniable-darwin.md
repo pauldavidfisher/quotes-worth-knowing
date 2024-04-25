@@ -9,7 +9,7 @@ tags:
   - essay
 ---
 
-##The Deniable Darwin
+## The Deniable Darwin
 
 Author: David Berlinski
 Subject: Anti-Evolution Articles
@@ -19,7 +19,7 @@ COMMENTARY, VOL. 101, June 1996 No. 6
 
 This article is posted by special permission of the author and the copyright holder, Commentary magazine. To subscribe to Commentary ($39 per year), telephone 1-800-829-6270 or send a check for $39 to Commentary at 165 E. 56th St., New York, NY 10022.
 
-###The fossil record is incomplete, the reasoning flawed; is the theory of evolution fit to survive?
+### The fossil record is incomplete, the reasoning flawed; is the theory of evolution fit to survive?
 
 [DAVID BERLINSKI, who has taught mathematics and philosophy in American and French universities, is the author, most recently, of A Tour of the Calculus (Pantheon) and of The Body Shop, a novel forthcoming from St. Martin’s). His article, “The Soul of Man Under Physics,” appeared in our January issue.]
 
@@ -47,7 +47,7 @@ The fundamental core of Darwinian doctrine, the philosopher Daniel Dennett has b
 
 Small wonder, then, that when the spotlight of publicity is dimmed, evolutionary biologists evince a feral streak, Stephen Jay Gould, Niles Eldredge, Richard Dawkins, and John Maynard Smith abusing one another roundly like wrestlers grappling in the dark.
 
-###Pause for the Logician
+### Pause for the Logician
 
 SWIMMING IN the soundless sea, *the shark has survived for millions of years, sleek as a knife blade and twice as dull. The shark is an organism wonderfully adapted to its environment.* Pause. And then the bright brittle voice of logical folly intrudes: *after all, it has survived for millions of years.*
 
@@ -73,7 +73,7 @@ The intellectually responsible answer to this question is that we do not know �
 
 Dawkins himself has maintained that those who do not believe a complex biological structure may be constructed in small steps are expressing merely their own sense of “personal incredulity.” But in countering their animadversions he appeals to his own ability to believe almost anything. Commenting on the (very plausible) claim that spiders could not have acquired their web-spinning behavior by a Darwinian mechanism, Dawkins writes: “It is not impossible at all. That is what I firmly believe and I have some experience of spiders and their webs.” It is painful to see this advanced as an argument.
 
-###Unflagging Success
+### Unflagging Success
 
 DARWIN CONCEIVED of evolution in terms of small variations among organisms, variations which by a process of accretion allow one species to change continuously into another. This suggests a view in which living creatures are spread out smoothly over the great manifold of biological possibilities, like colors merging imperceptibly in a color chart.
 
@@ -95,7 +95,7 @@ A comparison with geology is instructive. No geological theory makes it possible
 
 The theory of evolution, by contrast, is incapable of ruling anything out of court. That job must be done by nature. But a theory that can confront any contingency with unflagging success cannot be falsified. Its control of the facts is an illusion.
 
-###Sheer Dumb Luck
+### Sheer Dumb Luck
 
 CHANCE ALONE,” the Nobel Prize-winning chemist Jacques Monod once wrote, “is at the source of every innovation, of all creation in the biosphere. Pure chance, absolutely free but blind, is at the very root of the stupendous edifice of creation.”
 
@@ -115,7 +115,7 @@ If the universe is for reasons of sheer dumb luck committed ultimately to a stat
 
 Amazing. *Sheer dumb luck.*
 
-###Life, Complex Life
+### Life, Complex Life
 
 PHYSICISTS ARE persuaded that things are in the end simple; biologists that they are not. A good deal depends on where one looks. Wherever the biologist looks, there is complexity beyond complexity, the entanglement of things ramifying downward from the organism to the cell. In a superbly elaborated figure, the Australian biologist Michael Denton compares a single cell to an immense automated factory, one the size of a large city:
 
@@ -135,7 +135,7 @@ In this drifting, Darwinists see dangerous signs of a non sequitur. There is a t
 
 The enormous confidence this quotation expresses must be juxtaposed against the weight of intuition it displaces. It is true that intuition is often wrong-quantum theory is intuition’s graveyard. But quantum theory is remote from experience; our intuitions in biology lie closer to the bone. We are ourselves such stuff as genes are made on, and while this does not establish that our assessments of time and chance must be correct, it does suggest that they may be pertinent.
 
-###The Book of Life
+### The Book of Life
 
 THE DISCOVERY of DNA by James D. Watson and Francis Crick in 1952 revealed that a living creature is an organization of matter orchestrated by a genetic text. Within the bacterial cell, for example, the book of life is written in a distinctive language. The book is read aloud, its message specifying the construction of the cell’s constituents, and then the book is copied, passed faithfully into the future.
 
@@ -149,7 +149,7 @@ We do not understand, we cannot re-create, a system of this sort. However it may
 
 [(3) Schutzenberger’s comments were made at a symposium held in 1966. The proceedings were edited by Paul S. Moorhead and Martin Kaplan and published as *Mathematical Challenges to the Neo-Darwinian Interpretation of Evolution* (Wistar Institute Press,1967). Schutzenberger’s remarks, together with those of the physicist Murray Eden at the same symposium, constituted the first significant criticism of evolutionary doctrine in recent decades.]
 
-###Planets of Possibility
+### Planets of Possibility
 
 THIS IS not yet an argument, only an expression of intellectual unease; but the unease tends to build as analogies are amplified. The general issue is one of size and space, and the way in which something small may be found amidst something very big.
 
@@ -175,7 +175,7 @@ It would seem that evolution, Murray Eden writes in artfully ambiguous language,
 
 And yet, from the perspective of Darwinian theory, it is chance that plays the crucial — that plays the *only* role in generating the proteins. Wandering the surface of a planet, evolution wanders blindly, having forgotten where it has been, unsure of where it is going.
 
-###The Artificer of Design
+### The Artificer of Design
 
 RANDOM MUTATIONS are the great creative demiurge of evolution, throwing up possibilities and bathing life in the bright light of chance. Each living creature is not only what it is but what it might be. What, then, acts to make the possible palpable?
 
@@ -207,7 +207,7 @@ It is a rule that cannot be violated with impunity; if evolutionary theory is to
 
 But the rule is widely violated, the violations so frequent as to amount to a formal fallacy.
 
-###Advent of the Head Monkey
+### Advent of the Head Monkey
 
 IT IS Richard Dawkins’s grand intention in *The Blind Watchmaker* to demonstrate, as one reviewer enthusiastically remarked, “how natural selection allows biologists to dispense with such notions as purpose and design.” This he does by exhibiting a process in which the random exploration of certain possibilities, a *blind* stab here, another there, is followed by the filtering effects of natural selection, some of those stabs saved, others discarded. But could a process so conceived — a Darwinian process — discover a simple English sentence: a target, say, chosen from Shakespeare? The question is by no means academic. If natural selection cannot discern a simple English sentence, what chance is there that it might have discovered the mammalian eye or the system by which glucose is regulated by the liver? A thought experiment in *The Blind Watchmaker* now follows. Randomness in the experiment is conveyed by the metaphor of the monkeys, perennial favorites in the theory of probability. There they sit, simian hands curved over the keyboards of a thousand typewriters, their long agile fingers striking keys at random. It is an image of some poignancy, those otherwise intelligent apes banging away at a machine they cannot fathom; and what makes the poignancy pointed is the fact that the system of rewards by which the apes have been induced to strike the typewriter’s keys is from the first rigged against them.
 
@@ -231,7 +231,7 @@ Nature presents life with no targets. Life shambles forward, surging here, shuff
 
 This is the authentic voice of contemporary Darwinian theory. What may be illustrated by the theory does not involve a Darwinian mechanism; what involves a Darwinian mechanism cannot be illustrated by the theory.
 
-###Darwin Without Darwinism
+### Darwin Without Darwinism
 
 BIOLOGISTS OFTEN affirm that as members of the scientific community they positively welcome criticism. Nonsense. Like everyone else, biologists loathe criticism and arrange their lives so as to avoid it. Criticism has nonetheless seeped into their souls, the process of doubt a curiously Darwinian one in which individual biologists entertain minor reservations about their theory without ever recognizing the degree to which these doubts mount up to a substantial deficit. Creationism, so often the target of their indignation, is the least of their worries.
 
@@ -251,7 +251,7 @@ NO DOUBT, the theory of evolution will continue to play the singular role in the
 
 “Darwin,” Richard Dawkins has remarked with evident gratitude, “made it possible to be an intellectually fulfilled atheist.” This is an exaggeration, of course, but one containing a portion of the truth. That Darwin’s theory of evolution and biblical accounts of creation play similar roles in the human economy of belief is an irony appreciated by altogether too few biologists.
 
-###On the Derivation of *Ulysses* from *Don Quixote*
+### On the Derivation of *Ulysses* from *Don Quixote*
 
 I IMAGINE THIS story being told to me by Jorge Luis Borges one evening in a Buenos Aires cafe.
 
