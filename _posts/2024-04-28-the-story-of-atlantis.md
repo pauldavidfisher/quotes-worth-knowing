@@ -1,5 +1,5 @@
 ---
-title: "The Hippocratic Oath"
+title: "The Story of Atlantis"
 categories:
   - Blog
   - History
