@@ -1,5 +1,5 @@
 ---
-title: "Kings will be tyrants from policy, when subjects are rebels from principle"
+title: "The age of chivalry is gone"
 categories:
   - Blog
   - History
@@ -10,7 +10,7 @@ tags:
 
 ### Edmund Burke - Reflections on the Revolution in France
 
-## *Kings will be tyrants from policy, when subjects are rebels from principle*
+## *The age of chivalry is gone*
 
 It is now sixteen or seventeen years since I saw the queen of France, then the Dauphiness, at Versailles; and surely never lighted on this orb, which she hardly seemed to touch, a more delightful vision. I saw her just above the horizon, decorating and cheering the elevated sphere she just began to move in,—glittering like the morning-star, full of life and splendor and joy. Oh! what a revolution! and what an heart must I have, to contemplate without emotion that elevation and that fall! Little did I dream, when she added titles of veneration to those of enthusiastic, distant, respectful love, that she should ever be obliged to carry the sharp antidote against disgrace concealed in that bosom! little did I dream that I should have lived to see such disasters fallen upon her in a nation of gallant men, in a nation of men of honor, and of cavaliers! I thought ten thousand swords must have leaped from their scabbards to avenge even a look that threatened her with insult. But the age of chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished forever. Never, never more, shall we behold that generous loyalty to rank and sex, that proud submission, that dignified obedience, that subordination of the heart, which kept alive, even in servitude itself, the spirit of an exalted freedom! The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprise, is gone! It is gone, that sensibility of principle, that chastity of honor, which felt a stain like a wound, which inspired courage whilst it mitigated ferocity, which ennobled whatever it touched, and under which vice itself lost half its evil by losing all its grossness!
 
