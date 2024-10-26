@@ -28,10 +28,10 @@ Our people expect their President and the Congress to find essential agreement o
 My own relations with the Congress, which began on a remote and tenuous basis when, long ago, a member of the Senate appointed me to West Point, have since ranged to the intimate during the war and immediate post-war period, and, finally, to the mutually interdependent during these past eight years.
 
 In this final relationship, the Congress and the Administration have, on most vital issues, cooperated well, to serve the national good rather than mere partisanship, and so have assured that the business of the Nation should go forward. So, my official relationship with the Congress ends in a feeling, on my part, of gratitude that we have been able to do so much together.
-******
+<hr>
 <br> 
 We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence, we yet realize that America's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power in the interests of world peace and human betterment.
-******
+<hr>
 <br> 
 Throughout America's adventure in free government, our basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among people and among nations. To strive for less would be unworthy of a free and religious people. Any failure traceable to arrogance, or our lack of comprehension or readiness to sacrifice would inflict upon us grievous hurt both at home and abroad.
 
@@ -42,7 +42,7 @@ Crises there will continue to be. In meeting them, whether foreign or domestic, 
 But each proposal must be weighed in the light of a broader consideration: the need to maintain balance in and among national programs-balance between the private and the public economy, balance between cost and hoped for advantage-balance between the clearly necessary and the comfortably desirable; balance between our essential requirements as a nation and the duties imposed by the nation upon the individual; balance between action of the moment and the national welfare of the future. Good judgment seeks balance and progress; lack of it eventually finds imbalance and frustration.
 
 The record of many decades stands as proof that our people and their government have, in the main, understood these truths and have responded to them well, in the face of stress and threat. But threats, new in kind or degree, constantly arise. I mention two only.
-******
+<hr>
 <br> 
 A vital element in keeping the peace is our military establishment. Our arms must be mighty, ready for instant action, so that no potential aggressor may be tempted to risk his own destruction.
 
@@ -67,10 +67,10 @@ The prospect of domination of the nation's scholars by Federal employment, proje
 Yet, in holding scientific research and discovery in respect, as we should, we must also be alert to the equal and opposite danger that public policy could itself become the captive of a scientific-technological elite.
 
 It is the task of statesmanship to mold, to balance, and to integrate these and other forces, new and old, within the principles of our democratic system-ever aiming toward the supreme goals of our free society.
-******
+<hr>
 <br> 
 Another factor in maintaining balance involves the element of time. As we peer into society's future, we-you and I, and our government-must avoid the impulse to live only for today, plundering, for our own ease and convenience, the precious resources of tomorrow. We cannot mortgage the material assets of our grandchildren without risking the loss also of their political and spiritual heritage. We want democracy to survive for all generations to come, not to become the insolvent phantom of tomorrow.
-******
+<hr>
 <br> 
 Down the long lane of the history yet to be written America knows that this world of ours, ever growing smaller, must avoid becoming a community of dreadful fear and hate, and be, instead, a proud confederation of mutual trust and respect.
 
@@ -79,7 +79,7 @@ Such a confederation must be one of equals. The weakest must come to the confere
 Disarmament, with mutual honor and confidence, is a continuing imperative. Together we must learn how to compose difference, not with arms, but with intellect and decent purpose. Because this need is so sharp and apparent I confess that I lay down my official responsibilities in this field with a definite sense of disappointment. As one who has witnessed the horror and the lingering sadness of war-as one who knows that another war could utterly destroy this civilization which has been so slowly and painfully built over thousands of years-I wish I could say tonight that a lasting peace is in sight.
 
 Happily, I can say that war has been avoided. Steady progress toward our ultimate goal has been made. But, so much remains to be done. As a private citizen, I shall never cease to do what little I can to help the world advance along that road.
-******
+<hr>
 <br> 
 So-in this my last good night to you as your President-I thank you for the many opportunities you have given me for public service in war and peace. I trust that in that service you find somethings worthy; as for the rest of it, I know you will find ways to improve performance in the future.
 
