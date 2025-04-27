@@ -287,7 +287,7 @@ smothered popular sentiment burst forth into
 a series of insurrections throughout Spain,
 and the astonished Ferdinand was compelled,
 in 1820, to acknowledge the Constitution of
-1812. This was not upholding the principle
+1812 This was not upholding the principle
 of the "Divine Right of Kings"! So, under
 the direction of the Holy Alliance, a French
 army of one hundred thousand men moved
