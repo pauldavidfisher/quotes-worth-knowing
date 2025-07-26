@@ -11,7 +11,7 @@ tags:
   
 --- 
 
-### Smith Burnham
+### Hilarin Felder
 
 
 ## Jesus of Nazareth
@@ -24,7 +24,40 @@ tags:
 
 
 
-From the standpoint of psychology it is striking that Jesus,despite his complete devotion to his super-human mission, yetmanifests an incomparable prudence and an extraordinary senseof reality. Rationalistic and rationalizing critics cannot understandthis. Because they will accept the Man of Nazareth asman only, with a purely human purpose of life, they are forcedto interpret his clear and determined avowal of, and devotion to,his Messianic mission as ecstatic exaltation. However, theportrait of Jesus, even the rationalistic one, rebels most decisivelyagainst this sort of diagnosis.The fanatic is by nature eccentric, the opposite of a calm,deliberate, circumspect character. His monomania never allowshim to arrive at sober reflection, unbiased judgment, and mentalbalance. He can do but one thing - drive recklessly forwardon his erratic course, using the most despicable means and themost devious methods to attain his end. With force andviolence, with fire and sword he smites down everything whichstands in his way. Ruthless and irreconcilable toward dissentersand enemies, he has for them but hatred and persecution.Shameless and unreasonable toward friends and partisans, heexploits them for the furtherance of his cause with cold, devilishselfishness.How entirely different is Jesus! In him was lofty, serenedeliberation, an imperturbable calmness of mind, completeharmony of thought and will, of word and deed, unfathomabledivine peace, which no passion could becloud, a freedom andserenity of the soul even under the greatest stress, such as noprophet before him ever possessed. Although he pledges allhis powers to the fulfillment of his Messianic mission, neverthelesshe does not wish to establish his kingdom by means ofruthless violence and fanatical despotism. Little by little, fromwithin outward, by organic evolution and of its own power,the kingdom of God is to develop, like the mustard seed
+From the standpoint of psychology it is striking that Jesus,
+despite his complete devotion to his super-human mission, yet
+manifests an incomparable prudence and an extraordinary sense
+of reality. Rationalistic and rationalizing critics cannot understand
+this. Because they will accept the Man of Nazareth as
+man only, with a purely human purpose of life, they are forced
+to interpret his clear and determined avowal of, and devotion to,
+his Messianic mission as ecstatic exaltation. However, the
+portrait of Jesus, even the rationalistic one, rebels most decisively
+against this sort of diagnosis.
+
+The fanatic is by nature eccentric, the opposite of a calm,
+deliberate, circumspect character. His monomania never allows
+him to arrive at sober reflection, unbiased judgment, and mental
+balance. He can do but one thing - drive recklessly forward
+on his erratic course, using the most despicable means and the
+most devious methods to attain his end. With force and
+violence, with fire and sword he smites down everything which
+stands in his way. Ruthless and irreconcilable toward dissenters
+and enemies, he has for them but hatred and persecution.
+Shameless and unreasonable toward friends and partisans, he
+exploits them for the furtherance of his cause with cold, devilish
+selfishness.
+
+How entirely different is Jesus! In him was lofty, serene
+deliberation, an imperturbable calmness of mind, complete
+harmony of thought and will, of word and deed, unfathomable
+divine peace, which no passion could becloud, a freedom and
+serenity of the soul even under the greatest stress, such as no
+prophet before him ever possessed. Although he pledges all
+his powers to the fulfillment of his Messianic mission, nevertheless
+he does not wish to establish his kingdom by means of
+ruthless violence and fanatical despotism. Little by little, from
+within outward, by organic evolution and of its own power,the kingdom of God is to develop, like the mustard seed
 which quietly and silently grows into a great tree. He indignantly
 rejects all forceful methods. "Put up thy sword into
 the scabbard!'' (Jn. 18:11) he cries out to Peter at a critical
