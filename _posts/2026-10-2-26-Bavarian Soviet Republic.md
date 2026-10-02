@@ -9,7 +9,7 @@ tags:
 ---
 ## You've heard of the Beer Hall Putsch, but how about the Bavarian Soviet Republic?
 
- **[The Martyr Made Podcast](https://)**
+ **[The Martyr Made Podcast](https://subscribe.martyrmade.com/p/enemy-the-germans-war-pt-3-the-fighting?r=8ogkp&utm_campaign=post&utm_medium=web)**
 
 **Enemy: The Germans’ War, pt. 3 - The Fighting Man**
 
