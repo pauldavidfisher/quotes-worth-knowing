@@ -12,7 +12,7 @@ tags:
 
 # Robert Louis Stevenson Defends a Saint and Hero who Tasted of Our Common Frailty
 
-####[AN OPEN LETTER TO THE REVEREND DR. C. M. HYDE OF HONOLULU]
+##[AN OPEN LETTER TO THE REVEREND DR. C. M. HYDE OF HONOLULU]
 
 *On the night of February 25, 1890, in Sydney, Australia, Robert Louis Stevenson summoned his wife, his daughter, and his son, and announced that he bad something serious to lay before them. The story of this dramatic family conclave has been reconstructed for us in Graham Balfour’s celebrated biography of R.L.S.*
 
@@ -44,7 +44,7 @@ tags:
 
 *Inflamed with “holy anger” at Dr. Hyde’s defamation of Damien, the concrete results of whose heroism he had but recently seen, Stevenson wrote this reply, which was privately printed and distributed Bist in Sydney, and then throughout the world.*
 
-###*“The least tender should he moved to tears; the most incredulous to prayer”*
+##*“The least tender should he moved to tears; the most incredulous to prayer”*
 
 Sydney, February 25, 1890
 
