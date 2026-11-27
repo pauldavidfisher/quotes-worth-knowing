@@ -23,7 +23,7 @@ tags:
 
 *When Paine wrote The Age of Reason, Robespierre had him thrown into the Luxembourg (which was temporarily serving as a prison), largely because it was a plea for a “reasoned religion.” The orthodox, however, deemed the pamphlet heretical, and a hundred years later Theodore Roosevelt denounced Paine as “a filthy little atheist.” The American minister to France, Governeur Morris, an aristocrat of the old school who feared and hated radicals like Paine, refused to help him. He languished in prison for ten months. For what he regarded as deliberate treachery and ingratitude on the part of the republic he helped to establish, Paine held not merely Morris, but George Washington himself, directly responsible, and he therefore addressed the following masterpiece of vituperation directly to his erstwhile friend, then serving his second term as President:*
 
-###*" … deceitful, if not even perfidious."*
+##*" … deceitful, if not even perfidious."*
 
 Paris, July 30th, 1796. AS CENSURE is but awkwardly softened by apology, I shall I offer you no apology for this letter. The eventful crisis to * See Thomas Jefferson’s letter on the writing of the Declaration, on page 167. which your double politics have conducted the affairs of your country, requires an investigation uncramped by ceremony. 
 
